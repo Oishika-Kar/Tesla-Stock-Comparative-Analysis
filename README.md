@@ -9,4 +9,4 @@ Recent instances, such as the GameStop saga driven by individual investors on th
 
 As a data scientist working for a hedge fund, my task is to extract profit data for both Tesla and GameStop and develop a dashboard. This dashboard aims to provide a comparative analysis of the stock prices and associated profits, offering insights into the dynamics between stock performance and hedge fund gains or losses.
 
-Credits: This project is part of the Cognitive Class.ai curriculum. © IBM Corporation 2020. All rights reserved.
+## Credits: This project is part of the Cognitive Class.ai curriculum. © IBM Corporation 2020. All rights reserved.
